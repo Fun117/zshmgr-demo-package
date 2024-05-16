@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# スクリプトのディレクトリに移動
+cd "$(dirname "$0")"
+
 # インストールディレクトリ
 INSTALL_DIR="/usr/local/bin"
 
