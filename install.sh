@@ -1,12 +1,12 @@
 #!/bin/bash
 
-# スクリプトのディレクトリに移動
+# Move to the directory of the script
 cd "$(dirname "$0")"
 
-# インストールディレクトリ
+# Installation directory
 INSTALL_DIR="/usr/local/bin"
 
-# 実行可能ファイルをコピー
+# Copy executable file
 echo "Installing demo.sh to $INSTALL_DIR..."
 sudo cp bin/demo.sh $INSTALL_DIR/demo
 sudo chmod +x $INSTALL_DIR/demo

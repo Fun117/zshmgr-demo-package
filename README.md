@@ -1,5 +1,5 @@
 <div align="center">
-    <svg height="152" viewBox="0 0 512 512" fill="none"><polygon fill="currentColor" points="352.188,0 131.781,290.125 224.172,290.125 148.313,512 380.219,223.438 284.328,223.438"></polygon></svg>
+    <img src="https://zshmgr.vercel.app/favicon/favicon.ico"/>
     <h1>Zshmgr</h1>
 </div>
 
